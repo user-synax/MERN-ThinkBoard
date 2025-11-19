@@ -1,6 +1,8 @@
 <h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+
+  ![Demo App](https://miro.medium.com/v2/resize:fit:720/format:webp/1*OUCRCkZjJ_85PFH2FZt3lg.jpeg)
+
 
 Highlights:
 
@@ -38,10 +40,10 @@ npm run dev
 
 ## 💻 Run the Frontend
 
-## Thanks to <b>freeCodeCamp</b>
-
 ```
 cd frontend
 npm install
 npm run dev
 ```
+
+## Thanks to <b>freeCodeCamp</b>
