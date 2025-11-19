@@ -38,6 +38,8 @@ npm run dev
 
 ## 💻 Run the Frontend
 
+## Thanks to <b>freeCodeCamp</b>
+
 ```
 cd frontend
 npm install
